@@ -50,6 +50,9 @@ npm run dev
 
 ## 📸 Screenshots 
 Here’s a screenshot of the textforge:
+![Image](https://github.com/user-attachments/assets/b8b3065b-c037-4df1-971d-562babae5dd5)
+
+![Image](https://github.com/user-attachments/assets/adb42425-679a-48d3-bdf5-7c32738a19ff)
 
 
 💖 Acknowledgments
