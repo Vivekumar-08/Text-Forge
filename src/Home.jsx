@@ -42,7 +42,7 @@ export default function Home(props) {
         <>
             <div className="home" style={{ color: props.mode === 'dark' ? 'white' : 'black', backgroundColor: props.mode === 'dark' ? '#000000' : 'white' }}>
                 <div className="container">
-                    <h1>Enter the text to analyze</h1>
+                    <h1>Enter The Text To Analyze</h1>
                     <div className="mt-2">
                         <textarea className="form-control" value={text} onChange={handleOnChange} id="myBox" rows="8" style={{ color: props.mode === 'dark' ? 'white' : 'black', backgroundColor: props.mode === 'dark' ? '#2f3033' : 'white' }}></textarea>
                     </div>
